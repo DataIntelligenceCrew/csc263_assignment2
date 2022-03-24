@@ -19,3 +19,4 @@ To compile your project
   
 # Submission
 > - You only need to submit the renamed `lastname_assignment2.cpp` file
+> - And the required pltos : https://www.cs.rochester.edu/u/fnargesi/courses/263/a2/handout/a2.html
