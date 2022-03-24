@@ -13,7 +13,9 @@ Contains the Code for CSC 263 Assignment 2
 To compile your project
 > - `cd assignemnt_2`
 > - `g++ -o myproj -I./include/ -L./.libs/ -l xapian lastname_assignment2.cpp`
-  
+
+# Running your Code
+> - After compiling, you will see a executable named `myproj`. To run use : `./myproj`
   
 # Submission
 > - You only need to submit the renamed `lastname_assignment2.cpp` file
